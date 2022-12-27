@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T23:18:54.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="okhlqYS8XmWgG3vCgkTC" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T23:19:02.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="hlci05RDKILoVAWmH7nU" version="20.7.4" type="github">
   <diagram id="RHAZrWQLRDkT96S_gRnY" name="Диаграмма2 || Доставка Суши">
     <mxGraphModel dx="2004" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,11 +316,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1165" y="1143" as="sourcePoint" />
             <mxPoint x="1164.9099999999999" y="123" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8JBFVGu5TRE_8UB1eVMB-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lnSjmOPSwvC8dsKI3XS-66">
-          <mxGeometry x="0.3994" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-lnSjmOPSwvC8dsKI3XS-67" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;startArrow=none;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" source="-lnSjmOPSwvC8dsKI3XS-80" target="-lnSjmOPSwvC8dsKI3XS-55" edge="1">
